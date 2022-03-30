@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_bg_rectangle2">681dp</dimen>
+    <dimen name="height_bg_rectangle2">470dp</dimen>
+    <dimen name="margin_start_bg_rectangle2">-336dp</dimen>
+    <dimen name="margin_top_bg_rectangle2">48dp</dimen>
+
+    <dimen name="width_bg_rectangle5">793dp</dimen>
+    <dimen name="height_bg_rectangle5">605dp</dimen>
+    <dimen name="margin_start_bg_rectangle5">-393dp</dimen>
+    <dimen name="margin_top_bg_rectangle5">-38dp</dimen>
+
+    <dimen name="height_sv1_header">85dp</dimen>
+    <dimen name="margin_top_sv1_header">115dp</dimen>
+    <dimen name="text_size_sv1_header_top">16sp</dimen>
+    <dimen name="text_size_sv1_header_bottom">39sp</dimen>
+
+    <dimen name="width_hero_img_sv1">314dp</dimen>
+    <dimen name="height_hero_img_sv1">256dp</dimen>
+
+    <dimen name="width_progress_bar_sv1">50dp</dimen>
+    <dimen name="height_progress_bar_sv1">11dp</dimen>
+    <dimen name="margin_start_progress_bar_sv1">163dp</dimen>
+    <dimen name="margin_top_progress_bar_sv1">562dp</dimen>
+
+    <dimen name="width_next_button_sv1_container">366dp</dimen>
+    <dimen name="height_next_button_sv1_container">366dp</dimen>
+    <dimen name="margin_start_next_button_sv1_container">110dp</dimen>
+    <dimen name="margin_top_next_button_sv1_container">555dp</dimen>
+
+    <dimen name="width_rectangle3">255dp</dimen>
+    <dimen name="height_rectangle3">262dp</dimen>
+
+    <dimen name="width_rectangle1">236dp</dimen>
+    <dimen name="height_rectangle1">242dp</dimen>
+
+    <dimen name="width_next_button_sv1">75dp</dimen>
+    <dimen name="height_next_button_sv1">30dp</dimen>
+    <dimen name="margin_top_next_button_sv1">151dp</dimen>
+    <dimen name="margin_start_next_button_sv1">138dp</dimen>
+    <dimen name="text_size_next_button_sv1">14sp</dimen>
+    <dimen name="icon_size_next_button_sv1">16dp</dimen>
+    <dimen name="margin_top_hero_img_sv1">254dp</dimen>
+    <dimen name="margin_bottom_hero_img_sv1">301dp</dimen>
+    <dimen name="margin_end_next_button_sv1_container">100dp</dimen>
+    <dimen name="margin_bottom_next_button_sv1_container">110dp</dimen>
+
+</resources>

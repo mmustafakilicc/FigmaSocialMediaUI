@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MenuTitle">
+    <item
+        android:id="@+id/pageHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_home" />
+    <item
+        android:id="@+id/pageMessages"
+        android:enabled="true"
+        android:icon="@drawable/ic_iv_nav_messages" />
+    <item
+        android:id="@+id/pageAddPhoto"
+        android:enabled="false" />
+    <item
+        android:id="@+id/pageFavorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_like" />
+    <item
+        android:id="@+id/pageProfile"
+        android:enabled="true"
+        android:icon="@drawable/ic_nav_profile" />
+</menu>

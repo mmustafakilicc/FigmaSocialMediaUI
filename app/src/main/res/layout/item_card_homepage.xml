@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="10dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/img_charlie"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/imageViewCHProfile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                android:src="@drawable/img_dennis_profile"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="ContentDescription" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:elevation="2dp"
+                android:src="@drawable/ic_options"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:id="@+id/textViewCHName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toEndOf="@id/imageViewCHProfile"
+                app:layout_constraintTop_toTopOf="@id/imageViewCHProfile"
+                android:text="@string/app_name"
+                android:textSize="19sp"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/textViewCHOnline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintStart_toEndOf="@id/imageViewCHProfile"
+                app:layout_constraintTop_toBottomOf="@id/textViewCHName"
+                android:text="@string/app_name"
+                android:textSize="19sp"
+                android:textColor="@color/grey_light"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/materialButtonCHLike"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/materialButtonCHMessage"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:icon="@drawable/ic_nav_like"
+                android:text="@string/some_numbers"
+                style="@style/Theme.SocialMediaUI.InteractionButtons"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/materialButtonCHMessage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/materialButtonCHSaved"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/materialButtonCHLike"
+                app:icon="@drawable/ic_iv_nav_messages"
+                android:text="@string/some_numbers"
+                style="@style/Theme.SocialMediaUI.InteractionButtons"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/materialButtonCHSaved"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/materialButtonCHMessage"
+                app:icon="@drawable/ic_saved"
+                android:text="@string/some_numbers"
+                style="@style/Theme.SocialMediaUI.InteractionButtons"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</com.google.android.material.card.MaterialCardView>

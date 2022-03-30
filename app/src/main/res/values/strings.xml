@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Socially</string>
+    <string name="splash_hero">Splash Hero</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="next">Next</string>
+    <string name="feed">Feed</string>
+    <string name="home">Home</string>
+    <string name="messages">Messages</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="some_numbers">123</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="follows">Follows</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="john_doe">John Doe</string>
+    <string name="john_doe_mail">\@johndoe</string>
+    <string name="charlie_kelly">Charlie Kelly</string>
+    <string name="online">Online</string>
+    <string name="write_a_message">Write a message...</string>
+</resources>
