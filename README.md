@@ -1,7 +1,7 @@
 # FigmaSocialMediaUI
 For Case Study
 
-This is an implementation of an android ui designed with figma.
+This is an implementation of an android ui designed with figma. Not fully implemented yet.
 
 ![Screenshot_1648617025s](https://user-images.githubusercontent.com/12551746/160762603-5e12eebc-9c18-43bf-89f2-905ccb77451e.png)
 ![Screenshot_1648617029s](https://user-images.githubusercontent.com/12551746/160762604-017c6dbf-502c-4f37-8cc3-87764b440f13.png)
