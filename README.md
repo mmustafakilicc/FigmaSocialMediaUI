@@ -2,8 +2,9 @@
 For Case Study
 
 This is an implementation of an android ui designed with figma.
-![Screenshot_1648617029](https://user-images.githubusercontent.com/12551746/160756687-8c7e5bc6-3ce3-4a2c-98f2-4b260d7c96f9.png)
-![Screenshot_1648617033](https://user-images.githubusercontent.com/12551746/160756698-df7c29b9-1ef0-48df-9f38-a7f884ee4fcd.png)
-![Screenshot_1648617039](https://user-images.githubusercontent.com/12551746/160756701-f77d3659-9f88-484d-9e4f-1512b180839f.png)
-![Screenshot_1648617042](https://user-images.githubusercontent.com/12551746/160756704-809dfbac-103d-4fcf-86a6-635a96887a8a.png)
-![Screenshot_1648617025](https://user-images.githubusercontent.com/12551746/160756707-ac013f6e-2225-48f9-a30b-a441c2021bd5.png)
+
+![Screenshot_1648617042s](https://user-images.githubusercontent.com/12551746/160762596-6a44e8c4-2621-4f18-a411-e6b1f63ee9eb.png)
+![Screenshot_1648617025s](https://user-images.githubusercontent.com/12551746/160762603-5e12eebc-9c18-43bf-89f2-905ccb77451e.png)
+![Screenshot_1648617029s](https://user-images.githubusercontent.com/12551746/160762604-017c6dbf-502c-4f37-8cc3-87764b440f13.png)
+![Screenshot_1648617033s](https://user-images.githubusercontent.com/12551746/160762609-6b5aa54f-f9ab-4c5b-97ec-ebcf47a22622.png)
+![Screenshot_1648617039s](https://user-images.githubusercontent.com/12551746/160762613-9e964ddd-85ae-42e0-ba5a-1ec439a77571.png)
